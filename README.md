@@ -14,7 +14,7 @@ This repository contains test cases written in JavaScript using Cypress with a P
 1. Clone this repository:
 
 ```bash
-git clone <[repository-url](https://github.com/arturocerecero-qa/rain-cypress.git)> 
+git clone <https://github.com/arturocerecero-qa/rain-cypress.git> 
 ```
  
 2. Navigate to the project directory:
